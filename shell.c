@@ -1,3 +1,12 @@
+/****************************************************************************************************************************************************
+El programa busca mostrar el manejo de archivos, permite invocar a los comandos CAT, GREP, MV, EXIT, TAIL y HEAD semejantes a la forma básica de los
+comandos de Linux.
+
+Forma de compilar:  gcc -Wall $.c -o $
+
+
+*****************************************************************************************************************************************************/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
